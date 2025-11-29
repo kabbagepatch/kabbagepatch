@@ -12,10 +12,6 @@ Look at this lil focus timer I made in Tauri. And this Spotify data explorer wit
 
 Coz why use tools someone else made and perfected that I can access instantly when I can make little, silly versions of them over a few weeks
 
-Also here's pong, but ✨ _homemade_ ✨ (in Godot)
-
-![Pong](https://github.com/user-attachments/assets/990f908f-d766-4998-a247-e4b5c9cbece5)
-
 Other little things I've made include
 - A VS Code extension to convert color types: https://marketplace.visualstudio.com/items?itemName=kavish.hex-to-hsl
 - The pomo timer mentioned above: https://focus-coffee.netlify.app/
