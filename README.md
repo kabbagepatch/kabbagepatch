@@ -10,13 +10,13 @@ Look at this lil focus timer I made in Tauri. And this Spotify data explorer wit
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b524bacf-7133-4fff-8a87-0a06d10ce6f2" />
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/41e7ac6b-1395-45f0-8d7c-b40ff592be9d" />
 
-Coz why use tools someone else made and perfected that I can access instantly when I can make little, silly versions of them over a few weeks
+Coz why use tools someone else made and perfected that I can access instantly when I can make silly versions of them over a few weeks
 
-Other little things I've made include
+Other things I've made include
 - A VS Code extension to convert color types: https://marketplace.visualstudio.com/items?itemName=kavish.hex-to-hsl
 - The pomo timer mentioned above: https://focus-coffee.netlify.app/
 - A browser extension to hit the Jump To Recipe button so you can skip to the important bit in food blogs: [Chrome/Brave/Edge](https://chromewebstore.google.com/detail/jump-to-recipe/hfpigmpejgbffkiocfedombfjooanabj?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/jump-to-recipe/)
-- some others that don't have nice little links or production deployments but I use regularly, like discord/twitch bots, task tracking apps, etc
+- some others that don't have nice links or production deployments but I use regularly, like discord/twitch bots, task tracking apps, etc
 
 ---
 
