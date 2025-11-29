@@ -5,10 +5,11 @@ I'm Kavish. Nice of you to visit my lil page 🌱
 I've worked in software for over 9 years now and have touched a lot of different areas, probably too many of them. So much so that I'm going back to basics and making some simple apps from little ideas I think of randomly, while also learning new technologies. Essentially doing what I can to keep learning and growing as a software developer while still having fun with it
 
 Current obsessions include Tauri 🌻, Vue 🌵 and Godot 🎮 \
-Look at this lil focus timer I made in Tauri. And this Spotify data explorer with some Vue
+Look at this lil focus timer I made in Tauri. And this Spotify data explorer with some Vue. Or a Pokemon Battle Info app to help skip the type charts
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b524bacf-7133-4fff-8a87-0a06d10ce6f2" />
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/41e7ac6b-1395-45f0-8d7c-b40ff592be9d" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/b524bacf-7133-4fff-8a87-0a06d10ce6f2" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/41e7ac6b-1395-45f0-8d7c-b40ff592be9d" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/24dc657e-e228-42c2-b507-809f0c7aa425" />
 
 Coz why use tools someone else made and perfected that I can access instantly when I can make silly versions of them over a few weeks
 
