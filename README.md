@@ -7,7 +7,7 @@ I've worked in software for over 9 years now and have touched a lot of different
 Current obsessions include Tauri 🌻, Vue 🌵 and Godot 🎮 \
 Look at this lil focus timer I made in Tauri. And this Spotify data explorer with some Vue. Or a Pokemon Battle Info app to help skip the type charts
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/b524bacf-7133-4fff-8a87-0a06d10ce6f2" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/e36770ca-378f-4f97-b8c6-8bde1f9c8914" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/41e7ac6b-1395-45f0-8d7c-b40ff592be9d" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/24dc657e-e228-42c2-b507-809f0c7aa425" />
 
