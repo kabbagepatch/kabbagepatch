@@ -2,7 +2,7 @@
 
 I'm Kavish. Nice of you to visit my lil page 🌱
 
-I've worked in software for over 9 years now and have touched a lot of different areas, probably too many of them between full-stack applications and platform tooling. But between it all, I love doing what I can to keep learning and growing as a software developer while still having fun with it
+I've worked in software for almost 10 years now and have touched a lot of different areas, probably too many of them between full-stack applications and platform tooling. But between it all, I love to continue learning and growing as a software developer while still having fun with it
 
 Current obsessions include Tauri 🌻, Vue 🌵 and Godot 🎮 \
 I like making small apps that do one thing I can use in my day-to-day. Like this lil focus timer I made. Or a Spotify data explorer to get more insight into my listening history. Or my Pokemon AI assistant to help skip the type charts and constant lookups while I was playing Legends ZA. All made in Tauri
@@ -21,7 +21,7 @@ Some of my live projects include
 
 ---
 
-I work at Oracle, building Jenkins pipelines and other developer tooling for dozens of teams to build thousands of different projects on our platform. It's more fun and interesting than it sounds given the breadth of languages and technologies I get to work with, but also means I have to deal with all sorts of bugs and support issues. Before that I used to work at Cerner making full stack apps in React and Ruby on Rails with some more Java backend work.
+Professionally, I work at Oracle, building Jenkins pipelines and other developer tooling for dozens of teams to build thousands of different projects on our platform. It's more fun and interesting than it sounds given the breadth of languages and technologies I get to work with, but also means I have to deal with all sorts of bugs and support issues. Before that I used to work at Cerner making full stack apps in React and Ruby on Rails with some more Java backend work.
 
 ---
 
