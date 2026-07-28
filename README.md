@@ -7,7 +7,7 @@ I've worked in software for almost 10 years now and have touched a lot of differ
 Current obsessions include Tauri 🌻, Vue 🌵 and Godot 🎮 \
 I like making small apps that do one thing I can use in my day-to-day. Like this lil focus timer I made. Or a Spotify data explorer to get more insight into my listening history. Or my Pokemon AI assistant to help skip the type charts and constant lookups while I was playing Legends ZA. All made in Tauri
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/e36770ca-378f-4f97-b8c6-8bde1f9c8914" />
+<img height="300" alt="Coffee - Google Pixel 8" src="https://github.com/user-attachments/assets/ffa285c4-708a-41c6-907f-d740fbd50bca" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/41e7ac6b-1395-45f0-8d7c-b40ff592be9d" />
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/ac5fd399-1db9-4917-867a-9efad0c6ed42" />
 
